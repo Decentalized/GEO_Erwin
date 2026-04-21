@@ -1,0 +1,13 @@
+__pycache__/
+balltree/
+cosmology_data/
+datasets/
+wandb/
+logs/
+outputs/
+
+*.zip
+*.pyc
+*.log
+
+*.pt
